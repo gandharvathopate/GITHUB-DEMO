@@ -3,4 +3,4 @@ Demo Repository.
 <br>
 Editor - Gandharva Ganesh Thopate
 <br>
-Learning how to use GIT & GITHUB
+Learning how to use GIT & GITHUB.
